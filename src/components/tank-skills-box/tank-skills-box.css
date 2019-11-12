@@ -1,0 +1,9 @@
+.bt-skills .card-body:last-of-type .bt-skill-description {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.bt-skills .bt-skill-description {
+    border-bottom: 1px solid #ececec;
+    padding-bottom: 32px;
+}

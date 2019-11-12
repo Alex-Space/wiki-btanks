@@ -1,0 +1,37 @@
+.bt-skill-title {
+    margin-bottom: 10px;
+}
+
+.bt-skill-title h4 {
+    display: inline-block;
+    padding-left: 20px;
+    margin-bottom: 0;
+    position: relative;
+    top: 4px;
+}
+
+.bt-tank-skill-parameters span {
+    display: inline-block;
+}
+
+.bt-tank-skill-parameters .bt-skill-parameter {
+    display: block;
+}
+
+.bt-skill-parameter .bt-skill-parameter-title {
+    font-weight: 300;
+    padding-right: 10px;
+}
+
+.bt-skill-parameter span {
+    font-weight: 500;
+}
+
+@media screen and (min-width: 1650px) {
+    .bt-skill-parameter .bt-skill-parameter-title {
+        width: 20%;
+    }
+    .bt-skill-parameter .amount {
+        width: 80%;
+    }
+}

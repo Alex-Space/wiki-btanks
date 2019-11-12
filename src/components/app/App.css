@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#root {
+    height: 100%;
+}
+
+.bt-global-wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.bt-global-container {
+    flex: 1;
+}
+
+.bt-global-row {
+    height: 100%;
+}

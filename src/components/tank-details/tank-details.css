@@ -1,0 +1,49 @@
+.bt-tank-details .options-row {
+    display: block;
+}
+
+.bt-tank-details .options-row span {
+    display: inline-block;
+}
+
+.bt-tank-details .options-row .title {
+    font-weight: 300;
+    padding-right: 10px;
+}
+
+.bt-tank-details .options-row .amount {
+    font-weight: 500;
+}
+
+.bt-tank-details .bt-content-body {
+    display: flex;
+}
+
+.bt-tank-details .card {
+    margin-bottom: 20px;
+}
+
+.bt-tank-details .col {
+    padding: 0;
+}
+
+.bt-tank-shop-box img {
+    border-radius: 0;
+}
+
+.bt-main-page-title-box img{
+    margin-right: 20px;
+}
+
+.bt-main-page-title-box h1 {
+    display: inline-block;
+}
+
+@media screen and (min-width: 1650px) {
+    .bt-tank-details .options-row .title {
+        width: 40%;
+    }
+    .bt-tank-details .options-row .amount {
+        width: 60%;
+    }
+}
