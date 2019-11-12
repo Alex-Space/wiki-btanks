@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wiki-btanks/precache-manifest.f7908eac3ee408a4a531f858a8f7133c.js"
+  "/wiki-btanks/precache-manifest.af7bb1787751f8f6789b738f553aa679.js"
 );
 
 self.addEventListener('message', (event) => {

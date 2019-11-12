@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/wiki-btanks/static/css/main.b100e6da.chunk.css",
-    "main.js": "/wiki-btanks/static/js/main.4deea547.chunk.js",
-    "main.js.map": "/wiki-btanks/static/js/main.4deea547.chunk.js.map",
+    "main.css": "/wiki-btanks/static/css/main.d6eb840b.chunk.css",
+    "main.js": "/wiki-btanks/static/js/main.2da0052a.chunk.js",
+    "main.js.map": "/wiki-btanks/static/js/main.2da0052a.chunk.js.map",
     "runtime-main.js": "/wiki-btanks/static/js/runtime-main.e8b19a8e.js",
     "runtime-main.js.map": "/wiki-btanks/static/js/runtime-main.e8b19a8e.js.map",
-    "static/js/2.311589f4.chunk.js": "/wiki-btanks/static/js/2.311589f4.chunk.js",
-    "static/js/2.311589f4.chunk.js.map": "/wiki-btanks/static/js/2.311589f4.chunk.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/wiki-btanks/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.19ebe36a.chunk.js": "/wiki-btanks/static/js/2.19ebe36a.chunk.js",
+    "static/js/2.19ebe36a.chunk.js.map": "/wiki-btanks/static/js/2.19ebe36a.chunk.js.map",
     "index.html": "/wiki-btanks/index.html",
-    "precache-manifest.f7908eac3ee408a4a531f858a8f7133c.js": "/wiki-btanks/precache-manifest.f7908eac3ee408a4a531f858a8f7133c.js",
+    "precache-manifest.af7bb1787751f8f6789b738f553aa679.js": "/wiki-btanks/precache-manifest.af7bb1787751f8f6789b738f553aa679.js",
     "service-worker.js": "/wiki-btanks/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/wiki-btanks/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/wiki-btanks/static/media/logo.25bf045c.svg"
+    "static/css/2.b0bb7f2c.chunk.css.map": "/wiki-btanks/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.d6eb840b.chunk.css.map": "/wiki-btanks/static/css/main.d6eb840b.chunk.css.map",
+    "static/media/BTNBlackParagon.bmp": "/wiki-btanks/static/media/BTNBlackParagon.4bfdf90c.bmp",
+    "static/media/BTNPhaseRetractor.bmp": "/wiki-btanks/static/media/BTNPhaseRetractor.5cec9a06.bmp",
+    "static/media/black-paragon.jpg": "/wiki-btanks/static/media/black-paragon.1ed2483d.jpg",
+    "static/media/tank-construction-hall.png": "/wiki-btanks/static/media/tank-construction-hall.f55eaabf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e8b19a8e.js",
-    "static/js/2.311589f4.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.4deea547.chunk.js"
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.19ebe36a.chunk.js",
+    "static/css/main.d6eb840b.chunk.css",
+    "static/js/main.2da0052a.chunk.js"
   ]
 }
